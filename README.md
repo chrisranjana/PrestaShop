@@ -63,6 +63,7 @@ User documentation
 The official PrestaShop 1.6 documentation is available online [on its own website][6]
 
 First-time users will be particularly interested in the following guides:
+* [prestashop programmers in india](https://www.chrisranjana.com/prestashop-programmers-in-india.html "Prestashop developers in india")
 * [Getting Started][13]: How to install PrestaShop, and what you need to know.
 * [User Guide][14]: All there is to know to put PrestaShop to good use.
 * [Updating Guide][15]: Switching to the newest version is not trivial. Make sure you do it right.
